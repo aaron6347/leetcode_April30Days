@@ -38,5 +38,5 @@ a=["eat","tea","tan","ate","nat","bat"]
 print(run.groupAnagrams(a))
 # app1 sorted string
 # app2 counting alphabet
-# anagrams has similarities with same len, same count of letter and same arrangement of alpha
+# anagrams has canonical form which is similarities with same len, same count of letter and same arrangement of alpha
 # using dict, key must be immutable/ hashable such as str, int, tuple; mutable are sets, list
