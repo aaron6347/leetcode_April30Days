@@ -24,8 +24,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Python.day7_counting_elements">
-    <configuration name="day3_move_zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.day9_backspace_string_compare">
+    <configuration name="day10_min_stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_April30Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,70 +37,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Aaron\PycharmProjects\leetcode_April30Days\venv\day4_move_zeroes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="day4_move_zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_April30Days" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day4_move_zeroes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="day5_best_time_to_buy_and_sell_stock_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_April30Days" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day5_best_time_to_buy_and_sell_stock_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="day6_group_anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_April30Days" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day6_group_anagrams.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day10_min_stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,13 +67,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="day8_middle_of_the_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_April30Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day8_middle_of_the_linked_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day9_backspace_string_compare" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_April30Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day9_backspace_string_compare.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_April30Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day9_backspace_string_compare" />
+        <item itemvalue="Python.day10_min_stack" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.day8_middle_of_the_linked_list" />
         <item itemvalue="Python.day7_counting_elements" />
-        <item itemvalue="Python.day6_group_anagrams" />
-        <item itemvalue="Python.day5_best_time_to_buy_and_sell_stock_2" />
-        <item itemvalue="Python.day4_move_zeroes" />
-        <item itemvalue="Python.day3_move_zeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -166,29 +166,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1492" height="187" key="GridCell.Tab.0.bottom" timestamp="1586262680818">
+    <state width="1492" height="187" key="GridCell.Tab.0.bottom" timestamp="1586518394882">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="187" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1586262680818" />
-    <state width="1492" height="187" key="GridCell.Tab.0.center" timestamp="1586262680818">
+    <state width="1492" height="187" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1586518394882" />
+    <state width="1492" height="187" key="GridCell.Tab.0.center" timestamp="1586518394882">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="187" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1586262680818" />
-    <state width="1492" height="187" key="GridCell.Tab.0.left" timestamp="1586262680818">
+    <state width="1492" height="187" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1586518394882" />
+    <state width="1492" height="187" key="GridCell.Tab.0.left" timestamp="1586518394882">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="187" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1586262680818" />
-    <state width="1492" height="187" key="GridCell.Tab.0.right" timestamp="1586262680818">
+    <state width="1492" height="187" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1586518394882" />
+    <state width="1492" height="187" key="GridCell.Tab.0.right" timestamp="1586518394882">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="187" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1586262680818" />
+    <state width="1492" height="187" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1586518394882" />
     <state x="277" y="94" key="SettingsEditor" timestamp="1586162700665">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="277" y="94" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1586162700665" />
-    <state x="828" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1586167694210">
+    <state x="828" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1586513805575">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="828" y="276" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1586167694210" />
+    <state x="828" y="276" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1586513805575" />
   </component>
 </project>
