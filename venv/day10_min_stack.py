@@ -23,10 +23,14 @@ class MinStack:
         """
         self.ar = []
     def push(self, x: int) -> None:
-        min = self.getMin()
-        if min == None or min > x:
-            min = x
-        self.ar.append((x, min))
+        # min = self.getMin()
+        # if min == None or min > x:
+        #     min = x
+        # self.ar.append((x, min))
+        if len(self.ar)==0:
+            self.ar.append((x,x))
+        else:
+            self.ar.append((x, min(self.ar[-1][1], x)))
     def pop(self) -> None:
         self.ar.pop()
     def top(self) -> int:
