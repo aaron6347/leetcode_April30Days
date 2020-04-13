@@ -6,3 +6,7 @@ print(s)
 print(s[0])
 t=s[:-1]+a[2:]
 print(t)
+
+s='123'
+print(s[-1:])
+print(s[:-1])
