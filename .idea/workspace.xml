@@ -24,28 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Python.day13_contiguous_array">
-    <configuration name="day10_min_stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_April30Days" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day10_min_stack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.day14_perform_string_shifts">
     <configuration name="day11_diameter_of_binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_April30Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,6 +88,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="day14_perform_string_shifts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_April30Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day14_perform_string_shifts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_April30Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.day13_contiguous_array" />
+        <item itemvalue="Python.day14_perform_string_shifts" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.day13_contiguous_array" />
         <item itemvalue="Python.day12_last_stone_weight" />
         <item itemvalue="Python.day11_diameter_of_binary_tree" />
-        <item itemvalue="Python.day10_min_stack" />
       </list>
     </recent_temporary>
   </component>
@@ -166,29 +166,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1492" height="187" key="GridCell.Tab.0.bottom" timestamp="1586777782241">
+    <state width="1492" height="187" key="GridCell.Tab.0.bottom" timestamp="1586859577154">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="187" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1586777782241" />
-    <state width="1492" height="187" key="GridCell.Tab.0.center" timestamp="1586777782241">
+    <state width="1492" height="187" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1586859577154" />
+    <state width="1492" height="187" key="GridCell.Tab.0.center" timestamp="1586859577154">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="187" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1586777782241" />
-    <state width="1492" height="187" key="GridCell.Tab.0.left" timestamp="1586777782241">
+    <state width="1492" height="187" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1586859577154" />
+    <state width="1492" height="187" key="GridCell.Tab.0.left" timestamp="1586859577154">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="187" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1586777782241" />
-    <state width="1492" height="187" key="GridCell.Tab.0.right" timestamp="1586777782241">
+    <state width="1492" height="187" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1586859577154" />
+    <state width="1492" height="187" key="GridCell.Tab.0.right" timestamp="1586859577154">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="187" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1586777782241" />
+    <state width="1492" height="187" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1586859577154" />
     <state x="277" y="94" key="SettingsEditor" timestamp="1586162700665">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="277" y="94" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1586162700665" />
-    <state x="828" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1586769543733">
+    <state x="828" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1586857599032">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="828" y="276" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1586769543733" />
+    <state x="828" y="276" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1586857599032" />
   </component>
 </project>

@@ -8,5 +8,10 @@ t=s[:-1]+a[2:]
 print(t)
 
 s='123'
-print(s[-1:])
-print(s[:-1])
+print(s)
+x=1
+s=s[x:]+s[:x]
+print(s)
+y=2
+s=s[-y:]+s[:-y]
+print(s)
