@@ -15,3 +15,6 @@ print(s)
 y=2
 s=s[-y:]+s[:-y]
 print(s)
+a=[1,2,3,4,5]
+for x in reversed(range(len(a))):
+    print(a[x])
