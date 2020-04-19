@@ -13,6 +13,6 @@ class Solution:
         return findleft==0
 
 run=Solution()
-a='()'
+a='(**())'
 print(run.checkValidString(a))
 # let ( and ) as +1 and -1 and * be both, if ( < 0 make it 0 again and if ) < 0 will be false

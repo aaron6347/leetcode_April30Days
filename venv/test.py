@@ -18,3 +18,6 @@ print(s)
 a=[1,2,3,4,5]
 for x in reversed(range(len(a))):
     print(a[x])
+
+l=7
+print(l//2)
