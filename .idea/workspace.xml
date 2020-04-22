@@ -24,28 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Python.day21_leftmost_column_with_at_least_a_one">
-    <configuration name="day18_minimum_path_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_April30Days" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day18_minimum_path_sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.day22_subarray_sum_equals_k">
     <configuration name="day19_search_in_rotated_sorted_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_April30Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,6 +88,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="day22_subarray_sum_equals_k" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_April30Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day22_subarray_sum_equals_k.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_April30Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day22_subarray_sum_equals_k" />
         <item itemvalue="Python.day21_leftmost_column_with_at_least_a_one" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.day20_construct_binary_search_tree_from_preorder_traversal" />
         <item itemvalue="Python.day19_search_in_rotated_sorted_array" />
-        <item itemvalue="Python.day18_minimum_path_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -166,22 +166,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1492" height="186" key="GridCell.Tab.0.bottom" timestamp="1587473873851">
+    <state width="1492" height="186" key="GridCell.Tab.0.bottom" timestamp="1587543784255">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="186" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1587473873851" />
-    <state width="1492" height="186" key="GridCell.Tab.0.center" timestamp="1587473873850">
+    <state width="1492" height="186" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1587543784255" />
+    <state width="1492" height="186" key="GridCell.Tab.0.center" timestamp="1587543784255">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="186" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1587473873850" />
-    <state width="1492" height="186" key="GridCell.Tab.0.left" timestamp="1587473873850">
+    <state width="1492" height="186" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1587543784255" />
+    <state width="1492" height="186" key="GridCell.Tab.0.left" timestamp="1587543784255">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="186" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1587473873850" />
-    <state width="1492" height="186" key="GridCell.Tab.0.right" timestamp="1587473873850">
+    <state width="1492" height="186" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1587543784255" />
+    <state width="1492" height="186" key="GridCell.Tab.0.right" timestamp="1587543784255">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="186" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1587473873850" />
+    <state width="1492" height="186" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1587543784255" />
     <state x="277" y="94" key="SettingsEditor" timestamp="1586162700665">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
