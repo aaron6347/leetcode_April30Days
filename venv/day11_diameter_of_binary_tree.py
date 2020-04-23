@@ -6,6 +6,7 @@ class TreeNode:
         self.val = x
         self.left = None
         self.right = None
+
     def insert(self, root, n, middle, times):
         if times > 0:
             if n <= middle:
@@ -40,8 +41,7 @@ a=[4,-7,-3,None,None,-9,-3,9,-7,-4,None,6,None,-6,-6,None,None,0,6,5,None,9,None
 # 5,None,9,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,
 # None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-1,-4,None,
 # None,None,None,None,None,None,None,None,-2,]
-# fill in missing None into list
-copy=a
+copy=a  # fill in missing None into list
 i=0
 while i<len(a):
     if all ( y is None for y in a[i:-1]):
@@ -51,15 +51,13 @@ while i<len(a):
         copy.insert(i * 2 + 2, None)
     i+=1
     a=copy
-# cutting the extra None at the end list
-for x in range(len(a)-1, -1,-1):
+for x in range(len(a)-1, -1,-1):    # cutting the extra None at the end list
     if a[x]!=None:
         i=x
         break
 a=a[:i+1]
 node = TreeNode(a[0])
-# symmetry binary tree
-bi=[2,4,8,16,32,64]
+bi=[2,4,8,16,32,64] # symmetry binary tree
 for x in range(1, len(a)):
     sum=0
     for y in range(len(bi)):
