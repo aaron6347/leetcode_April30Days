@@ -32,8 +32,6 @@ class Solution:
             a=a.next.next
         return head
 
-
-
 run=Solution()
 a=[1,2]
 a=[1]
