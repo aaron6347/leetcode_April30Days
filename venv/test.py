@@ -28,3 +28,8 @@ print(list((len(ar), len(ar[0]))))
 x=1; y=3
 # 1 10 11 100
 print(x<<y)
+
+tup=(9,0)
+print(tup[1])
+
+
